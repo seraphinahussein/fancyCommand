@@ -1,0 +1,20 @@
+egg	2.99
+milk	4.56
+coffee	3.99
+bread	2.49
+butter	3.89
+cheese	4.29
+apples	3.49
+bananas	0.89
+chicken breast	8.99
+ground beef	6.49
+rice	2.19
+pasta	1.79
+tomato sauce	2.29
+cereal	4.19
+orange juice	3.79
+yogurt	1.29
+potatoes	3.29
+onions	1.49
+olive oil	7.99
+dark chocolate	2.99
